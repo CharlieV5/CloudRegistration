@@ -1,4 +1,3 @@
-#define USE_SVD
 #include <vector>
 #include <Eigen/Eigen>
 
